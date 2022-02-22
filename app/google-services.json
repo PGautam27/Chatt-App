@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944615912182",
+    "project_id": "gchattt-b2611",
+    "storage_bucket": "gchattt-b2611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944615912182:android:ad0bcb7c8279af0eed72d7",
+        "android_client_info": {
+          "package_name": "com.example.gchatt_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944615912182-cfep9urvdq4i9fe1ta6qrfb7kq1hu9cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOBAJOc1twZTtZAMjhq4fEgcCqlIIaHEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944615912182-cfep9urvdq4i9fe1ta6qrfb7kq1hu9cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
